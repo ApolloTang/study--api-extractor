@@ -30,5 +30,5 @@ The arithmetic mean of `x` and `y`
 
 ## Remarks
 
-This method is part of the .
+This method is part of the [Statistics subsystem](http://foo.com/core-library#Statistics)<!-- -->.
 

@@ -2,7 +2,7 @@
  * Returns the average of two numbers.
  *
  * @remarks
- * This method is part of the {@link core-library#Statistics | Statistics subsystem}.
+ * This method is part of the {@link http://foo.com/core-library#Statistics | Statistics subsystem}.
  *
  * @param x - The first input number
  * @param y - The second input number

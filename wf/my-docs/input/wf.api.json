@@ -172,7 +172,7 @@
         {
           "kind": "Function",
           "canonicalReference": "wf!getAverage:function(1)",
-          "docComment": "/**\n * Returns the average of two numbers.\n *\n * @remarks\n *\n * This method is part of the {@link core-library#Statistics | Statistics subsystem}.\n *\n * @param x - The first input number\n *\n * @param y - The second input number\n *\n * @returns The arithmetic mean of `x` and `y`\n *\n * @beta\n */\n",
+          "docComment": "/**\n * Returns the average of two numbers.\n *\n * @remarks\n *\n * This method is part of the {@link http://foo.com/core-library#Statistics | Statistics subsystem}.\n *\n * @param x - The first input number\n *\n * @param y - The second input number\n *\n * @returns The arithmetic mean of `x` and `y`\n *\n * @beta\n */\n",
           "excerptTokens": [
             {
               "kind": "Content",
